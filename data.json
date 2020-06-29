@@ -1,0 +1,383 @@
+{
+    "office_id": 293414,
+    "team_id": "293414_0",
+    "inspectors": [
+       {
+          "inspector_customer_id": "Z077819",
+          "name": "Ingrid Barrios",
+          "preferred": [
+             "PR",
+             "DUPRO",
+             "FRI"
+          ],
+          "specialized": [
+             "Apparel"
+          ]
+       },
+       {
+          "inspector_customer_id": "Z077806",
+          "name": "Oscar Coronado",
+          "preferred": [
+             "FA",
+             "PR",
+             "DUPRO",
+             "FRI"
+          ],
+          "specialized": [
+             "Apparel"
+          ]
+       },
+       {
+          "inspector_customer_id": "A573454",
+          "name": "Nestor Mejia",
+          "preferred": [
+             "FA",
+             "TPR",
+             "DUPRO",
+             "FRI"
+          ],
+          "specialized": [
+             "Apparel"
+          ]
+       },
+       {
+          "inspector_customer_id": "Z077812",
+          "name": "Marco Trujillo",
+          "preferred": [
+             "FA",
+             "PR",
+             "DUPRO",
+             "FRI"
+          ],
+          "specialized": [
+             "Apparel"
+          ]
+       }
+    ],
+    "factories": [
+       {
+          "factory_customer_id": "234662",
+          "manager_id": "",
+          "product_categories": [
+             ""
+          ],
+          "product_lines": [
+             "Apparel"
+          ]
+       },
+       {
+          "factory_customer_id": "20499",
+          "manager_id": "",
+          "product_categories": [
+             ""
+          ],
+          "product_lines": [
+             "Apparel"
+          ]
+       },
+       {
+          "factory_customer_id": "16728999",
+          "manager_id": "A573454",
+          "product_categories": [
+             ""
+          ],
+          "product_lines": [
+             "Apparel"
+          ]
+       },
+       {
+          "factory_customer_id": "315749",
+          "manager_id": "",
+          "product_categories": [
+             ""
+          ],
+          "product_lines": [
+             "Apparel"
+          ]
+       },
+       {
+          "factory_customer_id": "16751454",
+          "manager_id": "A573454",
+          "product_categories": [
+             ""
+          ],
+          "product_lines": [
+             "Apparel"
+          ]
+       }
+    ],
+    "assignments": [
+       {
+          "activity_duration": 3,
+          "activity_type": "FRI",
+          "assignment_id": "909b352a-ba0f-4a3f-93ba-c8d0ef3f704b",
+          "dpci_count": 70,
+          "expected_date": "2019-04-08",
+          "factory_customer_id": "234662",
+          "frm_level": "H",
+          "pid_count": 1,
+          "po_count": 3,
+          "shipment_date": "2019-04-30",
+          "total_available_quantity": 38484
+       },
+       {
+          "activity_duration": 3,
+          "activity_type": "FRI",
+          "assignment_id": "f49cd1b9-a94a-40e6-907d-c449ca7dfd26",
+          "dpci_count": 70,
+          "expected_date": "2019-04-08",
+          "factory_customer_id": "234662",
+          "frm_level": "H",
+          "pid_count": 1,
+          "po_count": 3,
+          "shipment_date": "2019-04-30",
+          "total_available_quantity": 38484
+       },
+       {
+          "activity_duration": 3,
+          "activity_type": "FRI",
+          "assignment_id": "3049dbdb-4497-4a1b-8da7-99032cf59aa8",
+          "dpci_count": 70,
+          "expected_date": "2019-04-08",
+          "factory_customer_id": "234662",
+          "frm_level": "M",
+          "pid_count": 1,
+          "po_count": 3,
+          "shipment_date": "2019-04-30",
+          "total_available_quantity": 38484
+       },
+       {
+          "activity_duration": 3,
+          "activity_type": "FRI",
+          "assignment_id": "15b09527-bd01-4535-b31a-82d3334fef2e",
+          "dpci_count": 70,
+          "expected_date": "2019-04-08",
+          "factory_customer_id": "234662",
+          "frm_level": "H",
+          "pid_count": 1,
+          "po_count": 3,
+          "shipment_date": "2019-04-30",
+          "total_available_quantity": 38484
+       },
+       {
+        "activity_duration": 3,
+        "activity_type": "FRI",
+        "assignment_id": "932f2f94-9e50-4c30-aacb-37db22c63217",
+        "dpci_count": 70,
+        "expected_date": "2019-04-08",
+        "factory_customer_id": "234662",
+        "frm_level": "H",
+        "pid_count": 1,
+        "po_count": 3,
+        "shipment_date": "2019-04-30",
+        "total_available_quantity": 38484
+     }
+    ],
+    "distances": [
+       {
+          "distance_type": "F",
+          "hours": 1,
+          "measure_point": "315749",
+          "reference_point": "234662"
+       },
+       {
+          "distance_type": "F",
+          "hours": 1,
+          "measure_point": "315749",
+          "reference_point": "20499"
+       },
+       {
+          "distance_type": "F",
+          "hours": 1,
+          "measure_point": "20499",
+          "reference_point": "234662"
+       },
+       {
+          "distance_type": "M",
+          "hours": 1,
+          "measure_point": "Z077812",
+          "reference_point": "234662"
+       },
+       {
+          "distance_type": "M",
+          "hours": 1,
+          "measure_point": "Z077812",
+          "reference_point": "20499"
+       },
+       {
+          "distance_type": "M",
+          "hours": 1,
+          "measure_point": "Z077812",
+          "reference_point": "315749"
+       },
+       {
+          "distance_type": "M",
+          "hours": 1,
+          "measure_point": "Z077819",
+          "reference_point": "234662"
+       },
+       {
+          "distance_type": "M",
+          "hours": 1,
+          "measure_point": "Z077819",
+          "reference_point": "20499"
+       },
+       {
+          "distance_type": "M",
+          "hours": 1,
+          "measure_point": "Z077819",
+          "reference_point": "315749"
+       },
+       {
+          "distance_type": "M",
+          "hours": 1,
+          "measure_point": "Z077806",
+          "reference_point": "234662"
+       },
+       {
+          "distance_type": "M",
+          "hours": 1,
+          "measure_point": "Z077806",
+          "reference_point": "20499"
+       },
+       {
+          "distance_type": "M",
+          "hours": 1,
+          "measure_point": "Z077806",
+          "reference_point": "315749"
+       },
+       {
+          "distance_type": "F",
+          "hours": 13,
+          "measure_point": "315749",
+          "reference_point": "16751454"
+       },
+       {
+          "distance_type": "F",
+          "hours": 13,
+          "measure_point": "315749",
+          "reference_point": "16728999"
+       },
+       {
+          "distance_type": "F",
+          "hours": 13,
+          "measure_point": "16728999",
+          "reference_point": "234662"
+       },
+       {
+          "distance_type": "F",
+          "hours": 13,
+          "measure_point": "16728999",
+          "reference_point": "20499"
+       },
+       {
+          "distance_type": "F",
+          "hours": 1,
+          "measure_point": "16728999",
+          "reference_point": "16751454"
+       },
+       {
+          "distance_type": "F",
+          "hours": 13,
+          "measure_point": "16751454",
+          "reference_point": "234662"
+       },
+       {
+          "distance_type": "F",
+          "hours": 13,
+          "measure_point": "16751454",
+          "reference_point": "20499"
+       },
+       {
+          "distance_type": "M",
+          "hours": 13,
+          "measure_point": "Z077812",
+          "reference_point": "16751454"
+       },
+       {
+          "distance_type": "M",
+          "hours": 13,
+          "measure_point": "Z077812",
+          "reference_point": "16728999"
+       },
+       {
+          "distance_type": "M",
+          "hours": 13,
+          "measure_point": "Z077819",
+          "reference_point": "16751454"
+       },
+       {
+          "distance_type": "M",
+          "hours": 13,
+          "measure_point": "Z077819",
+          "reference_point": "16728999"
+       },
+       {
+          "distance_type": "M",
+          "hours": 13,
+          "measure_point": "Z077806",
+          "reference_point": "16751454"
+       },
+       {
+          "distance_type": "M",
+          "hours": 13,
+          "measure_point": "Z077806",
+          "reference_point": "16728999"
+       },
+       {
+          "distance_type": "M",
+          "hours": 13,
+          "measure_point": "A573454",
+          "reference_point": "234662"
+       },
+       {
+          "distance_type": "M",
+          "hours": 13,
+          "measure_point": "A573454",
+          "reference_point": "20499"
+       },
+       {
+          "distance_type": "M",
+          "hours": 1,
+          "measure_point": "A573454",
+          "reference_point": "16751454"
+       },
+       {
+          "distance_type": "M",
+          "hours": 1,
+          "measure_point": "A573454",
+          "reference_point": "16728999"
+       },
+       {
+          "distance_type": "M",
+          "hours": 13,
+          "measure_point": "A573454",
+          "reference_point": "315749"
+       }
+    ],
+    "blocked_times": [
+        {
+            "activity_type": "Weekly team meeting",
+            "activity_duration": 3,
+            "inspector_customer_id": "Z077806",
+            "requested_date": "2018-04-09",
+            "blocked_id": "fbe331e6-2d4b-44a6-89be-f073a01efdde"
+        }
+    ],
+    "constructed_range": {
+       "date": {
+          "from": {
+             "_type": "date",
+             "value": "2019-04-08"
+          },
+          "to": {
+             "_type": "date",
+             "value": "2019-04-12"
+          }
+       },
+       "hour": {
+          "from": "06:00",
+          "to": "18:00"
+       }
+    }
+ }
